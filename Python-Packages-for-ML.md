@@ -37,7 +37,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 4 Blaze
 <p align="left">
-	<img src="https://camo.githubusercontent.com/debd373f86f1b28704c8351004c697fbbc2e08eee/68747470733a2f2f7261772e6769746875622e636f6d2f626c617a652f626c617a652f6d61737465722f646f63732f736f757263652f7376672f626c617a655f6d65642e706e67" height="100" title="networkx logo">
+	<img src="https://blaze.readthedocs.io/en/latest/_images/blaze_med.png" height="100" title="networkx logo">
 </p>
 
 > extend the capability of Numpy and Pandas to distributed and streaming datasets;
