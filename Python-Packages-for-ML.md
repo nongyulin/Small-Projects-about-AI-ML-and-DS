@@ -5,7 +5,9 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 ## Basic Packages for Everything, Especially Data Type and Structure
 
 ### 1 Numpy 
-![](https://static.javatpoint.com/tutorial/numpy/images/numpy-tutorial.png)
+<p align="left">
+	<img src="https://static.javatpoint.com/tutorial/numpy/images/numpy-tutorial.png" height="50" title="networkx logo">
+</p>
 
 > Numerical Python
 
@@ -13,7 +15,9 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 - [Documentation](https://www.numpy.org/devdocs/)
 
 ### 2 Scipy
-![](https://www.fullstackpython.com/img/logos/scipy.png)
+<p align="left">
+	<img src="https://www.fullstackpython.com/img/logos/scipy.png" height="50" title="networkx logo">
+</p>
 
 > Scientific Python
 
@@ -21,7 +25,9 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 - [Reference guide](https://docs.scipy.org/doc/scipy/reference/)
 
 ### 3 Pandas
-![](https://pandas.pydata.org/_static/pandas_logo.png)
+<p align="left">
+	<img src="https://pandas.pydata.org/_static/pandas_logo.png" height="50" title="networkx logo">
+</p>
 
 > Structured data operations and manipulations, extensively used for data munging and preparation
 > The most important thing to emphasis is [DataFrame](https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html) of Pandas. It is very powful, and could be used in a lot of scenarios.
@@ -30,7 +36,9 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 - [Documentation](http://pandas.pydata.org/pandas-docs/stable/)
 
 ### 4 Blaze
-![](https://camo.githubusercontent.com/debd373f86f1b28704c835504c697fbbc2e08eee/68747470733a2f2f7261772e6769746875622e636f6d2f626c617a652f626c617a652f6d61737465722f646f63732f736f757263652f7376672f626c617a655f6d65642e706e67)
+<p align="left">
+	<img src="https://camo.githubusercontent.com/debd373f86f1b28704c835504c697fbbc2e08eee/68747470733a2f2f7261772e6769746875622e636f6d2f626c617a652f626c617a652f6d61737465722f646f63732f736f757263652f7376672f626c617a655f6d65642e706e67" height="50" title="networkx logo">
+</p>
 
 > extend the capability of Numpy and Pandas to distributed and streaming datasets;
 > can be used to access data from a multitude of sources including Bcolz, MongoDB, SQLAIchemy, Apache Spark, PyTable, etc.
@@ -39,7 +47,9 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 - [Github](https://github.com/blaze/blaze)
 
 ### 5 SymPy
-![](https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg)
+<p align="left">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg" height="50" title="networkx logo">
+</p>
 
 > for symbolic computation;
 > from basic symbolic arithmetic to calculus, algebra, discrete mathematics and quantum physics.
@@ -48,7 +58,9 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 - [Documentation](https://docs.sympy.org/latest/index.html)
 
 ### 6 Statsmodels
-![](https://www.statsmodels.org/stable/_static/statsmodels_hybi_banner.png)
+<p align="left">
+	<img src="https://www.statsmodels.org/stable/_static/statsmodels_hybi_banner.png" height="50" title="networkx logo">
+</p>
 
 > for static modeling;
 > allow users to explore data, estimate statistical models, and perform statistical tests;
@@ -60,7 +72,9 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 ## The First Package You Have to Learn For Machine Learning
 
 ### 7 Scikit learn
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png)
+<p align="left">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="50" title="networkx logo">
+</p>
 
 > for machine learning (classification, regression, clustering, dimentionality reduction, etc.)
 
@@ -71,7 +85,9 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 ## Different Packages For Data Visualization
 
 ### 8 Matplotlib
-![](https://www.fullstackpython.com/img/logos/matplotlib.png)
+<p align="left">
+	<img src="https://www.fullstackpython.com/img/logos/matplotlib.png" height="50" title="networkx logo">
+</p>
 
 > very important and basic tool for data visualization
 
@@ -79,7 +95,9 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 - [Tutoria](https://matplotlib.org/tutorials/index.html)
 
 ### 9 Seaborn
-![](https://seaborn.pydata.org/_static/scatterplot_matrix_thumb.png?v=0.9.0)
+<p align="left">
+	<img src="https://seaborn.pydata.org/_static/scatterplot_matrix_thumb.png?v=0.9.0" height="50" title="networkx logo">
+</p>
 
 > statistical data visualization;
 > make attractive and informative statistical graphics
@@ -88,7 +106,9 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 - [Tutoria](https://seaborn.pydata.org/tutorial.html)
 
 ### 10 Bokeh
-![](https://www.fullstackpython.com/img/logos/bokeh.jpg)
+<p align="left">
+	<img src="https://www.fullstackpython.com/img/logos/bokeh.jpg" height="50" title="networkx logo">
+</p>
 
 > create interactive plots, dashboards and data applications on modern web-browers
 
@@ -96,7 +116,9 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 - [Tutoria (Very interesting tutorial, and very intuitive jupyter file!)](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)
 
 ### 11 Networkx
-![](http://pyviz.org/assets/networkx.png)
+<p align="left">
+	<img src="http://pyviz.org/assets/networkx.png" height="50" title="networkx logo">
+</p>
 
 > for graph based data manipulation
 
@@ -104,7 +126,9 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 - [Github](https://github.com/networkx/networkx)
 
 ### 12 Igraph
-![](https://igraph.org/img/igraph3.svg)
+<p align="left">
+	<img src="https://igraph.org/img/igraph3.svg" height="50" title="igraph logo">
+</p>
 
 > for graph based data manipulation
 
@@ -128,14 +152,19 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 ## Different Packages for Web Crawling
 
 ### 15 Requests
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Requests_Python_Logo.png/220px-Requests_Python_Logo.png)
+<p align="left">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Requests_Python_Logo.png/220px-Requests_Python_Logo.png" height="50" title="requests logo">
+</p>
+
 
 > for accessing the web
 
 - [Official website](https://2.python-requests.org/en/master/#)
 
 ### 16 Scrapy
-![](https://cdn-images-1.medium.com/max/1200/0*RP3QEulh5aepQ_Ef.png)
+<p align="left">
+	<img src="https://cdn-images-1.medium.com/max/1200/0*RP3QEulh5aepQ_Ef.png" height="50" title="scrapy logo">
+</p>
 
 > for web scrawling
 
@@ -144,7 +173,9 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 - [Github](https://github.com/scrapy/scrapy)
 
 ### 17 BeautifulSoup
-![](https://www.crummy.com/software/BeautifulSoup/10.1.jpg)
+<p align="left">
+	<img src="https://www.crummy.com/software/BeautifulSoup/10.1.jpg" height="50" title="beautifulsoup logo">
+</p>
 
 > for scrapping web
 
@@ -154,14 +185,20 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 ## The Two Most Important Packages for Deep Learning
 
 ### 18 PyTorch
-![](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png)
+<p align="left">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" height="50" title="pytorch logo">
+</p>
+
 > one of the most popular package for deap learning
 
 - [Official website](https://pytorch.org/)
 - [Github](https://github.com/pytorch)
 
 ### 19 TensorFlow
-![](https://www.tensorflow.org/images/tf_logo_social.png)
+<p align="left">
+	<img src="https://www.tensorflow.org/images/tf_logo_social.png" height="50" title="tensorflow logo">
+</p>
+
 > one of the most popular package for deap learning
 
 - [Official website](https://www.tensorflow.org/)
