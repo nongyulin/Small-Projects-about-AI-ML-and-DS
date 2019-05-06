@@ -6,7 +6,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 1 Numpy 
 <p align="left">
-	<img src="https://static.javatpoint.com/tutorial/numpy/images/numpy-tutorial.png" height="50" title="networkx logo">
+	<img src="https://static.javatpoint.com/tutorial/numpy/images/numpy-tutorial.png" height="100" title="networkx logo">
 </p>
 
 > Numerical Python
@@ -16,7 +16,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 2 Scipy
 <p align="left">
-	<img src="https://www.fullstackpython.com/img/logos/scipy.png" height="50" title="networkx logo">
+	<img src="https://www.fullstackpython.com/img/logos/scipy.png" height="100" title="networkx logo">
 </p>
 
 > Scientific Python
@@ -26,7 +26,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 3 Pandas
 <p align="left">
-	<img src="https://pandas.pydata.org/_static/pandas_logo.png" height="50" title="networkx logo">
+	<img src="https://pandas.pydata.org/_static/pandas_logo.png" height="100" title="networkx logo">
 </p>
 
 > Structured data operations and manipulations, extensively used for data munging and preparation
@@ -37,7 +37,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 4 Blaze
 <p align="left">
-	<img src="https://camo.githubusercontent.com/debd373f86f1b28704c835504c697fbbc2e08eee/68747470733a2f2f7261772e6769746875622e636f6d2f626c617a652f626c617a652f6d61737465722f646f63732f736f757263652f7376672f626c617a655f6d65642e706e67" height="50" title="networkx logo">
+	<img src="https://camo.githubusercontent.com/debd373f86f1b28704c8351004c697fbbc2e08eee/68747470733a2f2f7261772e6769746875622e636f6d2f626c617a652f626c617a652f6d61737465722f646f63732f736f757263652f7376672f626c617a655f6d65642e706e67" height="100" title="networkx logo">
 </p>
 
 > extend the capability of Numpy and Pandas to distributed and streaming datasets;
@@ -48,7 +48,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 5 SymPy
 <p align="left">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg" height="50" title="networkx logo">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg" height="100" title="networkx logo">
 </p>
 
 > for symbolic computation;
@@ -59,7 +59,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 6 Statsmodels
 <p align="left">
-	<img src="https://www.statsmodels.org/stable/_static/statsmodels_hybi_banner.png" height="50" title="networkx logo">
+	<img src="https://www.statsmodels.org/stable/_static/statsmodels_hybi_banner.png" height="100" title="networkx logo">
 </p>
 
 > for static modeling;
@@ -73,7 +73,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 7 Scikit learn
 <p align="left">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="50" title="networkx logo">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="100" title="networkx logo">
 </p>
 
 > for machine learning (classification, regression, clustering, dimentionality reduction, etc.)
@@ -86,7 +86,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 8 Matplotlib
 <p align="left">
-	<img src="https://www.fullstackpython.com/img/logos/matplotlib.png" height="50" title="networkx logo">
+	<img src="https://www.fullstackpython.com/img/logos/matplotlib.png" height="100" title="networkx logo">
 </p>
 
 > very important and basic tool for data visualization
@@ -96,7 +96,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 9 Seaborn
 <p align="left">
-	<img src="https://seaborn.pydata.org/_static/scatterplot_matrix_thumb.png?v=0.9.0" height="50" title="networkx logo">
+	<img src="https://seaborn.pydata.org/_static/scatterplot_matrix_thumb.png?v=0.9.0" height="100" title="networkx logo">
 </p>
 
 > statistical data visualization;
@@ -107,7 +107,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 10 Bokeh
 <p align="left">
-	<img src="https://www.fullstackpython.com/img/logos/bokeh.jpg" height="50" title="networkx logo">
+	<img src="https://www.fullstackpython.com/img/logos/bokeh.jpg" height="100" title="networkx logo">
 </p>
 
 > create interactive plots, dashboards and data applications on modern web-browers
@@ -117,7 +117,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 11 Networkx
 <p align="left">
-	<img src="http://pyviz.org/assets/networkx.png" height="50" title="networkx logo">
+	<img src="http://pyviz.org/assets/networkx.png" height="100" title="networkx logo">
 </p>
 
 > for graph based data manipulation
@@ -127,7 +127,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 12 Igraph
 <p align="left">
-	<img src="https://igraph.org/img/igraph3.svg" height="50" title="igraph logo">
+	<img src="https://igraph.org/img/igraph3.svg" height="100" title="igraph logo">
 </p>
 
 > for graph based data manipulation
@@ -153,7 +153,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 15 Requests
 <p align="left">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Requests_Python_Logo.png/220px-Requests_Python_Logo.png" height="50" title="requests logo">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Requests_Python_Logo.png/220px-Requests_Python_Logo.png" height="100" title="requests logo">
 </p>
 
 
@@ -163,7 +163,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 16 Scrapy
 <p align="left">
-	<img src="https://cdn-images-1.medium.com/max/1200/0*RP3QEulh5aepQ_Ef.png" height="50" title="scrapy logo">
+	<img src="https://cdn-images-1.medium.com/max/1200/0*RP3QEulh5aepQ_Ef.png" height="100" title="scrapy logo">
 </p>
 
 > for web scrawling
@@ -174,7 +174,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 17 BeautifulSoup
 <p align="left">
-	<img src="https://www.crummy.com/software/BeautifulSoup/10.1.jpg" height="50" title="beautifulsoup logo">
+	<img src="https://www.crummy.com/software/BeautifulSoup/10.1.jpg" height="100" title="beautifulsoup logo">
 </p>
 
 > for scrapping web
@@ -186,7 +186,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 18 PyTorch
 <p align="left">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" height="50" title="pytorch logo">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" height="100" title="pytorch logo">
 </p>
 
 > one of the most popular package for deap learning
@@ -196,7 +196,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 
 ### 19 TensorFlow
 <p align="left">
-	<img src="https://www.tensorflow.org/images/tf_logo_social.png" height="50" title="tensorflow logo">
+	<img src="https://www.tensorflow.org/images/tf_logo_social.png" height="100" title="tensorflow logo">
 </p>
 
 > one of the most popular package for deap learning
