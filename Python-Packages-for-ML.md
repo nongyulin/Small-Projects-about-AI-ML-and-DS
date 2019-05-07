@@ -9,7 +9,9 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 	<img src="https://static.javatpoint.com/tutorial/numpy/images/numpy-tutorial.png" height="100" title="networkx logo">
 </p>
 
-> Numerical Python
+> Numerical Python;
+
+> famous for [ndarry](https://docs.scipy.org/doc/numpy/reference/generated/numpy.ndarray.html), n dimension. 
 
 - [Official website](https://www.numpy.org/)
 - [Documentation](https://www.numpy.org/devdocs/)
@@ -29,8 +31,17 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 	<img src="https://pandas.pydata.org/_static/pandas_logo.png" height="100" title="networkx logo">
 </p>
 
-> Structured data operations and manipulations, extensively used for data munging and preparation
-> The most important thing to emphasis is [DataFrame](https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html) of Pandas. It is very powful, and could be used in a lot of scenarios.
+> Structured data operations and manipulations, extensively used for data munging and preparation;
+
+> The most important data structures to emphasis are [series](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html) and [DataFrame](https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html) of Pandas. It is very powful, and could be used in a lot of scenarios;
+
+> Series is one dimensional;
+
+> DataFrame is n dimensional;
+
+> Pay attention to index of series and dataframe. Get correct data is crutial in all works dealing with data;
+
+> If we use series to construct a dataframe, series are turned to be rows of the dataframe, and the index of these series is considered as the column index of the dataframe.
 
 - [Official website](https://pandas.pydata.org/)
 - [Documentation](http://pandas.pydata.org/pandas-docs/stable/)
