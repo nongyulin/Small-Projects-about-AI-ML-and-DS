@@ -52,6 +52,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 </p>
 
 > extend the capability of Numpy and Pandas to distributed and streaming datasets;
+
 > can be used to access data from a multitude of sources including Bcolz, MongoDB, SQLAIchemy, Apache Spark, PyTable, etc.
 
 - [Official website](https://blaze.pydata.org/)
@@ -63,6 +64,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 </p>
 
 > for symbolic computation;
+
 > from basic symbolic arithmetic to calculus, algebra, discrete mathematics and quantum physics.
 
 - [Official website](https://www.sympy.org/en/index.html)
@@ -74,7 +76,9 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 </p>
 
 > for static modeling;
+
 > allow users to explore data, estimate statistical models, and perform statistical tests;
+
 > descriptive statistics, statistical tests, plotting functions, and result statistics;
 
 - [Official website](http://www.statsmodels.org/devel/)
@@ -111,6 +115,7 @@ These are packages used most frequently for ML and AI, Data Science also. Not al
 </p>
 
 > statistical data visualization;
+
 > make attractive and informative statistical graphics
 
 - [Official website](https://seaborn.pydata.org/)
