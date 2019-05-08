@@ -8,7 +8,7 @@ This project aims to code some small projects about Artificial Intelligence, Mac
 	<img src="https://partyof12.files.wordpress.com/2014/11/albert-einstein.jpg?w=736" height="100" title="Einstein">
 </p>
 
-So, let's learn together!
+Even machines start learning now, why not hunman beings? So, let's learn together!
 
 ## Development Environment
 No need to add any word to discuss the importance of development environment. These tools are platforms on which we get our work done. Properly installing and setting these environments could speed up our works.
